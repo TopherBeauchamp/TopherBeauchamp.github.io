@@ -2,23 +2,20 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Topher Beauchamp
+Topher Beauchamp 
+Software Developer 
 
 Show Contacts
 
 Email
-richard@example.com
+topher.beauchamp@gmail.com
 
 Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
++1 (310)-748-5821
 
 Location
-Sacramento, California, USA
+Redondo Beach, California, USA
 
 # navbar
 
